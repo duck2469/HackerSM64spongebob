@@ -35,7 +35,7 @@
         "inst1": {
             "release_rate": 208,
             "envelope": "envelope1",
-            "sound": "02"
+            "sound": "menu.custom"
         },
         "inst2": {
             "release_rate": 208,
