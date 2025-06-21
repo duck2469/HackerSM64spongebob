@@ -1,0 +1,8 @@
+cd /mnt/e
+cd Projects/SuperMario64
+
+make -j4
+
+make spongebob room the main hub
+
+git clone https://github.com/HackerN64/HackerSM64 spognebob

@@ -37,7 +37,7 @@
 /** 
  * Makes the camera approach Mario's height much more quickly.
  */
-#define FAST_VERTICAL_CAMERA_MOVEMENT
+// #define FAST_VERTICAL_CAMERA_MOVEMENT
 
 /**
  * Enables "parallel lakitu camera" or "aglab cam" which lets you move the camera smoothly with the D-pad.
