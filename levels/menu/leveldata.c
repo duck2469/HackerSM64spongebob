@@ -14,22 +14,22 @@
 
 // 0x07000018 - 0x07000818
 ALIGNED8 static const Texture texture_menu_stone[] = {
-#include "levels/menu/main_menu_seg7.00018.rgba16.inc.c"
+#include "levels/menu/sponge.custom.rgba16.inc.c"
 };
 
 // 0x07000818 - 0x07001018
 ALIGNED8 static const Texture texture_menu_dark_stone[] = {
-#include "levels/menu/main_menu_seg7.00818.rgba16.inc.c"
+#include "levels/menu/darksponge.custom.rgba16.inc.c"
 };
 
 // 0x07001018 - 0x07002018
 ALIGNED8 static const Texture texture_menu_mario_save[] = {
-#include "levels/menu/main_menu_seg7.01018.rgba16.inc.c"
+#include "levels/menu/savedsponge.custom.rgba16.inc.c"
 };
 
 // 0x07002018 - 0x07003018
 ALIGNED8 static const Texture texture_menu_mario_new[] = {
-#include "levels/menu/main_menu_seg7.02018.rgba16.inc.c"
+#include "levels/menu/notsavedsponge.custom.rgba16.inc.c"
 };
 
 // 0x07003018 - 0x07003118
